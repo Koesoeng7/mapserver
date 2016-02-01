@@ -20,5 +20,5 @@ LAYER
 	OUTLINECOLOR	128 128 128							# warna batas luar polygon
 	END # class
 	END	# akhir definisi layer
-END	# akhir  mapfile
+END	# akhir  
 	
